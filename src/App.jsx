@@ -19,7 +19,7 @@ const initialState = {
           id: "1",
           name: "Coca Cola",
           price: 1500,
-          stock: 3,
+          stock: 4,
           imageUrl:
             "https://www.comercialescocia.cl/media/catalog/product/cache/bd39c428e033d025c961d90e67539ecb/6/0/60030002_2022-01-21_10_59_48.jpg",
         },
@@ -27,7 +27,7 @@ const initialState = {
           id: "2",
           name: "Fanta",
           price: 1400,
-          stock: 1,
+          stock: 3,
           imageUrl:
             "https://www.supermercadodiez.cl/image/cache/catalog/2023/ABRIL/fanta%20normal-500x500.jpg",
         },
@@ -35,7 +35,7 @@ const initialState = {
           id: "3",
           name: "Sprite",
           price: 1100,
-          stock: 4,
+          stock: 5,
           imageUrl:
             "https://xmayor.cl/wp-content/uploads/2021/06/SPRITE-350CC-LATA.jpg",
         },
@@ -65,7 +65,7 @@ const initialState = {
           price: 1000,
           stock: 6,
           imageUrl:
-            "https://jumbo.vtexassets.com/arquivos/ids/447840/Nectar-naranja-200-ml.jpg?v=637636993297970000",
+            "https://onixsuper.com/wp-content/uploads/2020/08/07501055356799-600x760.jpg",
         },
         {
           id: "5",
@@ -73,7 +73,7 @@ const initialState = {
           price: 1100,
           stock: 8,
           imageUrl:
-            "https://cdn.dimerc.cl/media/catalog/product/cache/1/thumbnail/x600/040ec09b1e35df139433887a97daa66f/c/l/cl_489977.jpg",
+            "https://onixsuper.com/wp-content/uploads/2020/10/7501055356720-600x760.jpg",
         },
         {
           id: "6",
@@ -81,7 +81,7 @@ const initialState = {
           price: 1300,
           stock: 4,
           imageUrl:
-            "https://jumbo.vtexassets.com/arquivos/ids/447842/Nectar-durazno-200-ml.jpg?v=637636993305770000",
+            "https://onixsuper.com/wp-content/uploads/2020/08/7501055356751-1-600x760.jpg",
         },
       ],
     },
